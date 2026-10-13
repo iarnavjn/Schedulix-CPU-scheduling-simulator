@@ -6,6 +6,17 @@ to efficiently handle process management and memory.
 
 This tool calculates critical metrics (Waiting Time, Turnaround Time) and visualizes process execution with a dynamic  **text-based Gantt Chart**.
 
+## Getting Started
+
+### Prerequisites
+- Install the runtime or compiler required by the project.
+- Clone or download this repository.
+
+### How to Run
+1. Open the project folder.
+2. Follow the build or installation instructions for the implementation.
+3. Run the simulator and select a CPU scheduling algorithm.
+
 ## **🎯 Key Features**
 
 - **Dynamic Memory Management:** Implemented using ***Linked Lists**** (no static arrays), demonstrating efficient memory usage and pointer manipulation in C.
